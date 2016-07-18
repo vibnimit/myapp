@@ -1,3 +1,5 @@
 Hello Guys something worrying you?
 I have now learned how to pull and merge and create branch from bash.
 It's very simple :)
+
+I have updated this
